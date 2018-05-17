@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EPMProjetosv1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EPMProjetosv1_projectb2w_Project_User" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">portalpmo</Value>
+    </Setting>
+    <Setting Name="EPMProjetosv1_projectb2w_Project_Password" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">b2w@123456</Value>
+    </Setting>
+    <Setting Name="EPMProjetosv1_projectb2w_Project_Domain" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">lab2w</Value>
+    </Setting>
+    <Setting Name="EPMProjetosv1_projectb2w_Project_ListData" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://project.b2w/PWA/_vti_bin/listdata.svc</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
